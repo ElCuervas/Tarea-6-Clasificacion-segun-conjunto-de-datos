@@ -1,1 +1,1 @@
-# Tarea-6-Clasificaci-n-seg-n-conjunto-de-datos
+# Tarea-6-Clasificacion-segun-conjunto-de-datos
