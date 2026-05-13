@@ -1,0 +1,15 @@
+# Python/Jupyter local artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local execution outputs
+*.log
+
+# Local AI/SDD tooling artifacts
+.atl/
